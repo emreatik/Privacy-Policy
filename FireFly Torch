@@ -1,0 +1,4 @@
+FireFly Torch requests the following permission(s): android.permission.CAMERA
+The permission is required to control the flash of the camera so that it can be used as a torch. 
+The app cannot transmit data about a user without obtaining the user’s prior permission
+The application is developed by Emre Atik, and all user's informations are guarenteed to keep in safe
